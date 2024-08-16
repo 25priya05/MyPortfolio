@@ -16,15 +16,14 @@ function About() {
                 <div className="SectionTitle">About Me</div>
                 <div className="BigCard">
                     <ScrollAnimation animateIn="fadeInLeft">
-                        <Image src="/man-svgrepo-com.svg" alt="man-svgrepo" />
+                        <Image src="/mypic.png" alt="priyanka kumari" />
                     </ScrollAnimation>
                     <div className="AboutBio">
                         <ScrollAnimation animateIn="fadeInLeft">
                             Hello! My name is <strong>Priyanka Kumari</strong>.
-                            I'm originally from Patna Bihar and I am Priyanka
-                            Kumari, a passionate and dedicated learner in the
-                            field of Data Structures and Algorithms (DSA) and
-                            web development.
+                            I'm originally from Patna Bihar and a passionate and
+                            dedicated learner in the field of Data Structures
+                            and Algorithms (DSA) and web development.
                         </ScrollAnimation>
 
                         <br />
@@ -38,7 +37,7 @@ function About() {
                             friendships that supported me throughout this
                             demanding program. Throughout my studies at NIT, I
                             had the opportunity to engage in fascinating
-                            projects., I have solved 368 problems on LeetCode,
+                            projects, I have solved 368 problems on LeetCode,
                             showcasing my commitment to mastering DSA concepts.
                             I am eager to apply my knowledge and skills to
                             contribute to a dynamic and innovative organization.
